@@ -1,3 +1,29 @@
+## clearpath_msgs (jazzy) - 1.0.1-2
+
+The packages in the `clearpath_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy clearpath_msgs --override-release-repository-push-url git@github.com:revyos-ros/clearpath_msgs-release.git` on `Thu, 19 Dec 2024 11:44:05 -0000`
+
+These packages were released:
+- `clearpath_motor_msgs`
+- `clearpath_msgs`
+- `clearpath_platform_msgs`
+
+Version of package(s) in repository `clearpath_msgs`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_msgs.git
+- release repository: https://github.com/revyos-ros/clearpath_msgs-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_msgs (humble) - 1.0.1-1
 
 The packages in the `clearpath_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble clearpath_msgs --override-release-repository-push-url git@github.com:revyos-ros/clearpath_msgs-release.git` on `Fri, 13 Dec 2024 13:38:49 -0000`
