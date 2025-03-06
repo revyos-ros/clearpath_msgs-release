@@ -2,6 +2,19 @@
 Changelog for package clearpath_motor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2025-01-31)
+------------------
+* Added new error flags (`#66 <https://github.com/clearpathrobotics/clearpath_msgs/issues/66>`_)
+* Contributors: Roni Kreinin
+
+2.0.0 (2025-01-13)
+------------------
+* A300 (`#63 <https://github.com/clearpathrobotics/clearpath_msgs/issues/63>`_)
+  * Added Lynx messages and actions
+  * Added A300 changes and enums
+  * Added temperature message
+* Contributors: Luis Camero, Roni Kreinin, Tony Baltovski
+
 1.0.1 (2024-11-25)
 ------------------
 * [clearpath_motor_msgs] Updated package version.
