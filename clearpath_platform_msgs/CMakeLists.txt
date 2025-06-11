@@ -16,17 +16,21 @@ find_package(builtin_interfaces REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
+  msg/DisplayStatus.msg
   msg/Drive.msg
   msg/DriveFeedback.msg
   msg/Fans.msg
   msg/Feedback.msg
   msg/Lights.msg
+  msg/PinoutCommand.msg
+  msg/PinoutState.msg
   msg/Power.msg
   msg/RGB.msg
   msg/Status.msg
   msg/StopStatus.msg
   msg/Temperature.msg
   srv/ConfigureMcu.srv
+  srv/SetPinout.srv
   DEPENDENCIES std_msgs builtin_interfaces
 )
 
